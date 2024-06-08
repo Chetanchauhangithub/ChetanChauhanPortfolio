@@ -8,20 +8,24 @@
       "Spring MVC",
       "Thymeleaf",
       "Spring Boot",
-      "MongoDB"
+      "MongoDB",
+      "AWS Cloud"
     ],
     "demo": "",
     "source": "https://github.com/Chetanchauhangithub/EasySchool"
   },
   {
-    "title": "EasyBank API",
+    "title": "EasyBank Microservices",
     "imageSrc": "projects/bank-API.png",
-    "description": "Simplify educational course organization with the Course Management API. Easily create, update, and retrieve course information through a user-friendly interface. Ideal for applications managing and showcasing educational content efficiently.",
+    "description": "Created EasyBank Production-Ready Application which consists of three Microservies Accounts, Cards and Loans. Used Feign Client for invoking other microservice. Implemented Docker and Kubernates.",
     "skills": [
       "Spring Boot",
       "Hibernate",
+      "Spring Security",
       "MySQL",
-      "Docker"
+      "Kafka",
+      "Docker",
+      "Grafana"
     ],
     "demo": "",
     "source": "https://github.com/Chetanchauhangithub/EasyBank"
