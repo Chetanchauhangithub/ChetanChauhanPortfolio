@@ -1,8 +1,8 @@
 [
   {
-    "title": "E-Commerce Webapp",
-    "imageSrc": "projects/ecommerce.png",
-    "description": "Fashioned a modern E-commerce destination tailored for an effortless shopping journey. This platform seamlessly integrates responsive design to guarantee a polished user experience across all devices.",
+    "title": "Easy School ",
+    "imageSrc": "projects/easyschool.png",
+    "description": "Created a School Web App where User can find the required details about the school and contact to the school for further commuication",
     "skills": [
       "React",
       "Express",
@@ -10,7 +10,7 @@
       "MongoDB"
     ],
     "demo": "https://my-ecommerce-site-ndvd.onrender.com/",
-    "source": "https://github.com/AmitDobal/eCommerceMERN"
+    "source": "https://github.com/Chetanchauhangithub/EasySchool"
   },
   {
     "title": "Course Store API",
