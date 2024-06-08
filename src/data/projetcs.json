@@ -1,0 +1,28 @@
+[
+  {
+    "title": "E-Commerce Webapp",
+    "imageSrc": "projects/ecommerce.png",
+    "description": "Fashioned a modern E-commerce destination tailored for an effortless shopping journey. This platform seamlessly integrates responsive design to guarantee a polished user experience across all devices.",
+    "skills": [
+      "React",
+      "Express",
+      "Node",
+      "MongoDB"
+    ],
+    "demo": "https://my-ecommerce-site-ndvd.onrender.com/",
+    "source": "https://github.com/AmitDobal/eCommerceMERN"
+  },
+  {
+    "title": "Course Store API",
+    "imageSrc": "projects/course-API.png",
+    "description": "Simplify educational course organization with the Course Management API. Easily create, update, and retrieve course information through a user-friendly interface. Ideal for applications managing and showcasing educational content efficiently.",
+    "skills": [
+      "Spring Boot",
+      "Hibernate",
+      "MySql",
+      "Docker"
+    ],
+    "demo": "https://course-service-ear2.onrender.com/swagger-ui/index.html",
+    "source": "https://github.com/AmitDobal/CourseHub/tree/main/backend/course-management"
+  }
+]

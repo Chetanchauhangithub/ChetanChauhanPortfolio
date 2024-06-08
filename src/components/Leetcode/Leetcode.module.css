@@ -1,0 +1,72 @@
+@import "../../vars.css";
+
+.container {
+  color: var(--color-text);
+  margin-top: 79px;
+  margin-left: 10%;
+  margin-right: 10%;
+  /* position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 49px;
+  z-index: 1;
+  margin-left: 10%;
+  margin-right: 10%; */
+}
+.title{
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+}
+.content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  color: var(--color-text);
+  z-index: 1;
+  margin-top: 15px;
+  /* margin-right: 30px; */
+}
+
+.dataCard {
+  display: flex;
+  justify-content: center;
+  background-color: #efefef;
+  border-radius: 0.5em;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  padding: 1em;
+  background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
+  box-shadow: 0 16px 14px 0 #04152d;
+}
+
+.doughnutCard {
+  width: 40%;
+  height: 20rem;
+}
+
+.statsCard {
+  width: 55%;
+  height: 20rem;
+}
+
+@media screen and (max-width: 830px) {
+  .content {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .doughnutCard {
+    width: 100%;
+    height: 20rem;
+    margin-top: 10px;
+  }
+
+  .statsCard {
+    width: 100%;
+    height: 20rem;
+    margin-top: 10px;
+  }
+}

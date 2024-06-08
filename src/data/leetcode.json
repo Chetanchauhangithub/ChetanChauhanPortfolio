@@ -1,0 +1,29 @@
+{
+  "matchedUser": {
+    "username": "AmitDobal",
+    "submitStats": {
+      "acSubmissionNum": [
+        {
+          "difficulty": "All",
+          "count": 245,
+          "submissions": 665
+        },
+        {
+          "difficulty": "Easy",
+          "count": 120,
+          "submissions": 362
+        },
+        {
+          "difficulty": "Medium",
+          "count": 113,
+          "submissions": 282
+        },
+        {
+          "difficulty": "Hard",
+          "count": 12,
+          "submissions": 21
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "role": "Software Developer",
+    "organisation": "TCS",
+    "startDate": "Feb, 2022",
+    "endDate": "Present",
+    "experiences": [
+      "Designed and developed retail application",
+      "Contributed to Script Sync and Mail to Retails projects, automating processes for a 30% reduction in manual intervention."
+    ],
+    "imageSrc": "history/tcs.png"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "Rivigo",
+    "startDate": "Jun, 2020",
+    "endDate": "Feb, 2022",
+    "experiences": [
+      "Assisted in the development and maintenance of Java applications. ",
+      "Gained hands-on experience with Java programming, SQL databases, and debugging. Collaborated with senior developers to design and implement new features. "
+    ],
+    "imageSrc": "history/rivigo.png"
+  }
+]
