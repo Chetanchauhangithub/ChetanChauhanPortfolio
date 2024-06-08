@@ -26,7 +26,7 @@ const About = () => {
               <h3>Summary</h3>
               <p>
                 Passionate software engineer skilled in crafting seamless user
-                experiences through 3 years of software development,
+                experiences through 4 years of software development,
                 specializing in user-friendly systems and robust RESTful APIs.
                 Always ready for new challenges with a friendly tech approach.
                 Let's make things click!
@@ -39,8 +39,7 @@ const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Development</h3>
               <p>
-                Experienced in developing fast and optimized backend systems and
-                APIs using Spring Boot.
+              "As a Java backend developer, I specialize in crafting microservices architectures for scalable and resilient applications. With expertise in SpringBoot,Spring Cloud, Docker, and Kubernetes, I design and implement robust backend systems that meet the demands of modern, cloud-native environments. Leveraging my strong foundation in Java development, along with a focus on clean code and best practices, I deliver efficient and maintainable solutions tailored to drive business success."
               </p>
             </div>
           </li>
