@@ -2,27 +2,28 @@
   {
     "title": "Easy School ",
     "imageSrc": "projects/easyschool.png",
-    "description": "Created a School Web App where User can find the required details about the school and contact to the school for further commuication",
+    "description": "Created a School Web App where User can find the required details about the school such as courses provided by the school, Holidays details etc and contact to the school for further commuication.  ",
     "skills": [
-      "React",
-      "Express",
-      "Node",
+      "Java",
+      "Spring MVC",
+      "Thymeleaf",
+      "Spring Boot",
       "MongoDB"
     ],
-    "demo": "https://my-ecommerce-site-ndvd.onrender.com/",
+    "demo": "",
     "source": "https://github.com/Chetanchauhangithub/EasySchool"
   },
   {
-    "title": "Course Store API",
-    "imageSrc": "projects/course-API.png",
+    "title": "EasyBank API",
+    "imageSrc": "projects/bank-API.png",
     "description": "Simplify educational course organization with the Course Management API. Easily create, update, and retrieve course information through a user-friendly interface. Ideal for applications managing and showcasing educational content efficiently.",
     "skills": [
       "Spring Boot",
       "Hibernate",
-      "MySql",
+      "MySQL",
       "Docker"
     ],
-    "demo": "https://course-service-ear2.onrender.com/swagger-ui/index.html",
-    "source": "https://github.com/AmitDobal/CourseHub/tree/main/backend/course-management"
+    "demo": "",
+    "source": "https://github.com/Chetanchauhangithub/EasyBank"
   }
 ]
