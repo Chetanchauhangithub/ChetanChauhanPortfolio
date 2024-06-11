@@ -1,29 +1,29 @@
 {
   "matchedUser": {
-    "username": "Chetan Chauhan",
-    "submitStats": {
-      "acSubmissionNum": [
-        {
-          "difficulty": "All",
-          "count": 245,
-          "submissions": 665
-        },
-        {
-          "difficulty": "Easy",
-          "count": 120,
-          "submissions": 362
-        },
-        {
-          "difficulty": "Medium",
-          "count": 113,
-          "submissions": 282
-        },
-        {
-          "difficulty": "Hard",
-          "count": 12,
-          "submissions": 21
-        }
-      ]
-    }
+      "username": "Chetanchauhan048",
+      "submitStats": {
+          "acSubmissionNum": [
+              {
+                  "difficulty": "All",
+                  "count": 73,
+                  "submissions": 101
+              },
+              {
+                  "difficulty": "Easy",
+                  "count": 51,
+                  "submissions": 70
+              },
+              {
+                  "difficulty": "Medium",
+                  "count": 21,
+                  "submissions": 30
+              },
+              {
+                  "difficulty": "Hard",
+                  "count": 1,
+                  "submissions": 1
+              }
+          ]
+      }
   }
 }
