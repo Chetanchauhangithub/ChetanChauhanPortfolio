@@ -67,24 +67,24 @@ const Leetcode = () => {
   );
   const [problemSolvedData, setProblemSolvedData] = useState([0]);
 
-  useEffect(() => {
-    populateDefaultLeetcodeSubmissionData();
-    populateDefaultProblemSolvedLeetcodeData();
+   useEffect(() => {
+    // populateDefaultLeetcodeSubmissionData();
+    // populateDefaultProblemSolvedLeetcodeData();
 
     populateLeetcodeApiData();
-  }, []);
+   }, []);
 
-  //Populate Default LEETCODE Data
-  const populateDefaultLeetcodeSubmissionData = () => {
-    const defaultData = processCalendarData(
-      leetcodeSubmissionCalendarData.submissionCalendar
-    );
-    setApiSubmissionCalendarData(defaultData);
-  };
-  const populateDefaultProblemSolvedLeetcodeData = () => {
-    const defaultData = processDifficultyData(leetcodeData);
-    setProblemSolvedData(defaultData);
-  };
+  // //Populate Default LEETCODE Data
+  // // const populateDefaultLeetcodeSubmissionData = () => {
+  // //   const defaultData = processCalendarData(
+  // //     leetcodeSubmissionCalendarData.submissionCalendar
+  // //   );
+  // //   setApiSubmissionCalendarData(defaultData);
+  // // };
+  // const populateDefaultProblemSolvedLeetcodeData = () => {
+  //   const defaultData = processDifficultyData(leetcodeData);
+  //   setProblemSolvedData(defaultData);
+  // };
   //Populate Leetcode API data
   const populateLeetcodeApiData = () => {
     fetchSubmissionCalenderData();
